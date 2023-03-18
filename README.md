@@ -46,4 +46,8 @@ quanto na própria placa a partir do programa Quartus.
   estado os displays HEX5, HEX4, HEX3, HEX2 mostrarão FPgA ou USEr indicando quem ganhou o jogo e no
   LEDR(4) o status win. Nesse estado o usuário deverá pressionar reset para passar a START e reiniciar o jogo.
 
+  
+![Lógica e Máquina de Estados](https://user-images.githubusercontent.com/124313519/226142535-463a864f-1d63-49ed-a6f1-da5241aba07e.png)
+
+
 Projeto final da matéria Circuitos e Técnicas Digitais (EEL5105-01208B) pela UFSC.
