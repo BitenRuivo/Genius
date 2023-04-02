@@ -1,7 +1,8 @@
 # Jogo Genius
 
-Jogo Genius escrito em VHDL. Pode ser executado tanto em emuladores de placa FPGA (fpgaemu.sites.ufsc.br),
-quanto na própria placa a partir do programa Quartus.
+Jogo Genius escrito em VHDL. Pode ser executado tanto em emuladores de placa FPGA (fpgaemu.sites.ufsc.br), quanto
+na própria placa a partir do programa Quartus. Basta fazer o upload dos arquivos, selecionar a entidade "Topo.vhdl"
+como "top level" e rodar o programa.
 
 • Para iniciar o jogo o usuário ativa a entrada de reset, SW(1), e passamos ao estado START onde são activados os
   comandos de reset (R1 e R2). Nesse estado os displays HEX5 e HEX4 mostrarão a letra L de level e o nível de jogo,
